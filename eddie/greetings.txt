@@ -1,0 +1,23 @@
+Why, hello there, %(name)s. All I want to do is make your %(timeOfDay)s nicer and nicer and nicer.
+A towel, it says, is about the most massively useful thing an interstellar hitchhiker can have.
+In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
+The Guide is definitive. Reality is frequently inaccurate.
+I'd far rather be happy than right any day.
+Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.
+Tao 1: Be kind, towards yourself and towards others.
+Tao 2: Don't panic
+Tao 3: When in stress, breathe, focus on one thing and go back to the basics
+Tao 4: If a problem is to hard to solve you do not understand the problem
+
+Try not to become a man of success. Rather become a man of value - Albert Einstein
+Success is stumbling from failure to failure with no loss of enthusiasm ― Winston S. Churchill
+Accept everything just the way it is - Miyamoto Musashi
+Most of the re-inventions of the wheel ended up square - ESR
+You will not be punished for your anger, you will be punished by your anger  – Buddha
+Silence the angry man with love – Buddha
+Silence the ill-natured man with kindness  – Buddha
+Silence the miser with generosity  – Buddha
+Silence the liar with truth – Buddha
+If you trust yourself, any choice you make will be correct. If you do not trust yourself, anything you do will be wrong - Kung fu
+%(name)s, most people in the world have been tricked into believing they're not important ― Hu Yuan Nabe
+A Kung Fu Master is a Practitioner of Martial Arts Who Keeps Practicing ― Kailin Gow
